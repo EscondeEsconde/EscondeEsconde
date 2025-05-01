@@ -56,7 +56,7 @@ Below are the development phases and what’s planned ahead:
 
 ## Contribution
 
-**If you want to contribute to Esconde-esconde, be sure to review the [contribution guidelines](contributing.md).**
+**If you want to contribute to Esconde-esconde, be sure to review the [contribution guidelines](contrib/contributing.md).**
 
 We welcome contributions from the community in various ways, including bug reports, suggestions, map creations, and any improvements to the plugin itself. 
 Whether you want to contribute code, suggest features, or report an issue, your input is valuable and helps to improve the experience for all players.
